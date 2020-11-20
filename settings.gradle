@@ -1,0 +1,3 @@
+include ':FirebaseNotification'
+include ':app'
+rootProject.name = "Firebase Notification"
